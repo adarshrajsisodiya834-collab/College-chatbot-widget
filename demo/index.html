@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>College Chatbot</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+        color: #171b3a;
+        background: #f7f8fc;
+      }
+
+      nav {
+        height: 70px;
+        background: #fff;
+        border-bottom: 1px solid #e8eaf0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 7%;
+      }
+
+      nav strong {
+        font-size: 20px;
+      }
+
+      nav span {
+        color: #7d8290;
+        font-size: 14px;
+      }
+
+      .hero {
+        padding: 90px 7%;
+        background: linear-gradient(120deg, #eef2ff, #fff);
+      }
+
+      .hero h1 {
+        font-size: 48px;
+        max-width: 700px;
+        margin: 0 0 18px;
+      }
+
+      .hero p {
+        max-width: 620px;
+        color: #6e7380;
+        line-height: 1.7;
+        font-size: 17px;
+      }
+
+      .cards {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 18px;
+        padding: 50px 7%;
+      }
+
+      .card {
+        background: #fff;
+        padding: 28px;
+        border-radius: 18px;
+        border: 1px solid #eceef4;
+        min-height: 150px;
+      }
+
+      footer {
+        padding: 50px 7%;
+        color: #8b90a0;
+      }
+
+      @media (max-width: 700px) {
+        .cards {
+          grid-template-columns: 1fr;
+        }
+
+        .hero h1 {
+          font-size: 36px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <strong>College</strong>
+      <span>Admissions · Academics · Campus · Placements</span>
+    </nav>
+
+    <section class="hero">
+      <h1>Welcome to ABC College</h1>
+      <p>
+        Explore programs, admissions, fees, scholarships, hostel facilities and campus
+        information. Use the assistant in the bottom-right corner to ask questions.
+      </p>
+    </section>
+
+    <section class="cards">
+      <div class="card">
+        <h3>Admissions</h3>
+        <p>Find eligibility, application information and admission guidance.</p>
+      </div>
+      <div class="card">
+        <h3>Programs</h3>
+        <p>Explore undergraduate and postgraduate courses and departments.</p>
+      </div>
+      <div class="card">
+        <h3>Campus</h3>
+        <p>Learn about hostel, transport, facilities and student services.</p>
+      </div>
+    </section>
+    <footer>
+      &copy; 2024 ABC College. All rights reserved.
+    </footer>
+
+    <script src="http://127.0.0.1:8000/widget.js" data-widget-id="COLLEGE_ABC_001" async></script>
+  </body>
+</html>
+

@@ -1,0 +1,544 @@
+[
+  {
+    "id": "faq-greeting",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "General Help",
+    "question": "What can you help me with?",
+    "aliases": [
+      "help",
+      "what can you do",
+      "what questions can I ask",
+      "college information"
+    ],
+    "keywords": [
+      "help",
+      "assistant",
+      "information"
+    ],
+    "content": "The ABC College Assistant provides information about admissions, programmes, eligibility, fees, scholarships, departments, faculty, examinations, results, hostel, transport, placements, campus facilities, rules and contact information.",
+    "answer": "I can help you with ABC College information such as:\n\n• Admissions and application process\n• Courses and programmes\n• Eligibility requirements\n• Fees and scholarships\n• Departments and faculty\n• Exams and results\n• Hostel and transport\n• Placements and campus facilities\n• College rules and contact information\n\nAsk me anything about one of these topics.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-admission-process",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Admission Process",
+    "question": "How do I apply for admission?",
+    "aliases": [
+      "admission process",
+      "how can I get admission",
+      "how to apply",
+      "application process",
+      "admission procedure",
+      "want admission"
+    ],
+    "keywords": [
+      "admission",
+      "apply",
+      "application",
+      "procedure"
+    ],
+    "content": "Applicants should complete the admission application, provide the required documents, submit the application and complete enrolment after selection.",
+    "answer": "The admission process can be followed in these steps:\n\n1. Choose the programme you want to apply for.\n2. Check the eligibility requirements for that programme.\n3. Complete the admission application form.\n4. Upload or submit the required documents.\n5. Pay the applicable application fee, if required.\n6. Submit the application before the stated deadline.\n7. After selection, complete the enrolment and document-verification process.\n\nAdmission dates and programme-specific requirements should be checked in the current college admission notice.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-admission-requirements",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Admission Requirements",
+    "question": "What are the admission requirements?",
+    "aliases": [
+      "eligibility for admission",
+      "documents required for admission",
+      "admission eligibility",
+      "requirements for admission",
+      "what documents do I need"
+    ],
+    "keywords": [
+      "admission",
+      "eligibility",
+      "documents",
+      "requirements"
+    ],
+    "content": "Admission requirements vary by programme. Applicants should check the programme-specific eligibility criteria and document list in the current admission notice.",
+    "answer": "Admission requirements depend on the programme. In general, applicants should be prepared with:\n\n• Proof of the required previous qualification\n• Academic marksheets or certificates\n• Valid identification\n• Passport-size photographs, where required\n• Category or other supporting certificates, where applicable\n\nThe exact eligibility and document requirements should be checked in the current admission notice for your chosen programme.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-courses",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Courses and Programmes",
+    "question": "What courses are available?",
+    "aliases": [
+      "programmes",
+      "programs",
+      "courses offered",
+      "what can I study",
+      "degree courses",
+      "available courses"
+    ],
+    "keywords": [
+      "courses",
+      "programmes",
+      "programs",
+      "academics"
+    ],
+    "content": "ABC College offers undergraduate and postgraduate programmes across its academic departments. The programme list and programme-specific eligibility details are maintained in the college knowledge base.",
+    "answer": "ABC College offers undergraduate and postgraduate programmes across multiple academic departments.\n\nIf you tell me the area you are interested in, such as Computer Science, Management, Commerce or another department, I can help you with the relevant programme information.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-bca",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "BCA Programme",
+    "question": "Tell me about BCA.",
+    "aliases": [
+      "bca",
+      "bachelor of computer applications",
+      "computer application course",
+      "BCA course"
+    ],
+    "keywords": [
+      "bca",
+      "computer",
+      "applications"
+    ],
+    "content": "BCA is an undergraduate computer applications programme. Programme-specific eligibility, curriculum and fees should be checked in the current programme notice.",
+    "answer": "BCA is an undergraduate programme focused on computer applications and related computing subjects.\n\nFor BCA, the chatbot can help you with admission process, eligibility, fees, curriculum and department information when those details are available in the college knowledge base. Exact current requirements should be checked in the relevant programme notice.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-eligibility",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Eligibility",
+    "question": "What is the eligibility criteria?",
+    "aliases": [
+      "eligibility",
+      "who can apply",
+      "qualification required",
+      "minimum qualification",
+      "eligibility criteria"
+    ],
+    "keywords": [
+      "eligibility",
+      "qualification",
+      "criteria"
+    ],
+    "content": "Eligibility is programme-specific. Applicants should check the current admission notice for the required previous qualification and any programme-specific conditions.",
+    "answer": "Eligibility depends on the programme you want to join. The current admission notice should be checked for the required previous qualification, minimum marks and any programme-specific conditions.\n\nTell me the programme name if you want to check a particular course.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-fees",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Fee Structure",
+    "question": "What is the fee structure?",
+    "aliases": [
+      "fees",
+      "course fees",
+      "tuition fees",
+      "how much does it cost",
+      "fee details",
+      "semester fee"
+    ],
+    "keywords": [
+      "fees",
+      "fee",
+      "tuition",
+      "cost",
+      "payment"
+    ],
+    "content": "Fees vary by programme and academic session. The current fee notice contains the applicable tuition and other charges.",
+    "answer": "The fee structure depends on the programme and academic session. It may include tuition and other applicable institutional charges.\n\nBecause fees can change between sessions, the current official fee notice should be checked for the exact amount for your programme. If you tell me the programme, I can point you to the relevant category of information.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-scholarship",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Scholarships",
+    "question": "Are scholarships available?",
+    "aliases": [
+      "scholarship",
+      "financial aid",
+      "fee scholarship",
+      "scholarships for students",
+      "financial assistance"
+    ],
+    "keywords": [
+      "scholarship",
+      "financial",
+      "aid"
+    ],
+    "content": "Scholarships and financial assistance are subject to the applicable scholarship rules and eligibility conditions.",
+    "answer": "Scholarship and financial-assistance opportunities may be available to eligible students.\n\nEligibility, required documents and application deadlines depend on the particular scholarship. Students should check the current scholarship notice for the latest conditions and application process.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-hostel",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Hostel Accommodation",
+    "question": "Is hostel accommodation available?",
+    "aliases": [
+      "hostel",
+      "hostel facility",
+      "hostel rooms",
+      "accommodation",
+      "student hostel"
+    ],
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "rooms"
+    ],
+    "content": "Hostel accommodation is subject to availability and the current hostel rules.",
+    "answer": "Hostel accommodation is available subject to capacity and the applicable hostel rules.\n\nFor hostel-related information, students should check the current hostel notice for:\n• Availability\n• Application procedure\n• Hostel fees\n• Rules and facilities\n\nIf you want, you can ask specifically about hostel fees, application or facilities.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-transport",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Transport",
+    "question": "Does the college provide transport?",
+    "aliases": [
+      "bus",
+      "college bus",
+      "transport facility",
+      "transportation",
+      "bus service"
+    ],
+    "keywords": [
+      "transport",
+      "bus",
+      "travel"
+    ],
+    "content": "Transport services, routes and availability are subject to the current college transport arrangements.",
+    "answer": "College transport information depends on the current routes and service arrangements. Students should check the latest transport notice for available routes, timings, stops and applicable charges.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-exams",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Examinations",
+    "question": "How do college exams work?",
+    "aliases": [
+      "exam",
+      "examinations",
+      "semester exams",
+      "exam schedule",
+      "exam timetable",
+      "end semester exam"
+    ],
+    "keywords": [
+      "exam",
+      "examination",
+      "timetable",
+      "semester"
+    ],
+    "content": "Examinations are conducted according to the academic calendar and examination notices issued by the college.",
+    "answer": "College examinations are conducted according to the academic calendar and examination notices.\n\nStudents should check the latest examination notice for:\n• Exam timetable\n• Examination form requirements\n• Examination instructions\n• Venue or seating information\n• Important deadlines",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-results",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Results",
+    "question": "Where can I check my results?",
+    "aliases": [
+      "result",
+      "results",
+      "exam result",
+      "semester result",
+      "marks",
+      "result date"
+    ],
+    "keywords": [
+      "results",
+      "marks",
+      "score"
+    ],
+    "content": "Examination results are published through the college's designated result or student-information channel.",
+    "answer": "Results are published through the college's designated result or student-information channel.\n\nFor a particular result, students should use the latest result notice or official result portal and keep their examination credentials or required details ready.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-departments",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Departments",
+    "question": "What departments does the college have?",
+    "aliases": [
+      "departments",
+      "academic departments",
+      "branches",
+      "faculties",
+      "streams"
+    ],
+    "keywords": [
+      "departments",
+      "faculty",
+      "academics"
+    ],
+    "content": "ABC College has multiple academic departments supporting its undergraduate and postgraduate programmes.",
+    "answer": "ABC College has multiple academic departments supporting its undergraduate and postgraduate programmes.\n\nAsk me about a specific subject or programme and I can help you find the relevant department information available in the knowledge base.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-faculty",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Faculty",
+    "question": "How can I find faculty information?",
+    "aliases": [
+      "teachers",
+      "professors",
+      "faculty members",
+      "faculty details",
+      "staff"
+    ],
+    "keywords": [
+      "faculty",
+      "professor",
+      "teacher",
+      "staff"
+    ],
+    "content": "Faculty information is organised by academic department and may include faculty names, roles and areas of teaching or research.",
+    "answer": "Faculty information is organised by academic department.\n\nIf you are looking for a particular professor or department, tell me the department or faculty name and I can check the available college information.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-placements",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Placements",
+    "question": "Does the college provide placement assistance?",
+    "aliases": [
+      "placements",
+      "placement",
+      "jobs",
+      "campus placement",
+      "companies",
+      "career"
+    ],
+    "keywords": [
+      "placement",
+      "jobs",
+      "career",
+      "companies"
+    ],
+    "content": "Placement and career support is coordinated through the college's placement or career-services function.",
+    "answer": "ABC College provides placement and career-support information through its placement or career-services function.\n\nPlacement-related information can include recruitment drives, eligibility, application procedures, training and employer opportunities. Exact company participation and placement schedules can change by recruitment cycle.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-campus",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Campus Facilities",
+    "question": "What facilities are available on campus?",
+    "aliases": [
+      "campus",
+      "facilities",
+      "college facilities",
+      "infrastructure",
+      "amenities"
+    ],
+    "keywords": [
+      "campus",
+      "facilities",
+      "infrastructure"
+    ],
+    "content": "Campus facilities depend on the college's available student and academic services.",
+    "answer": "Campus facilities may include academic spaces, student services and common campus amenities.\n\nFor a specific facility, such as library, laboratory, sports, cafeteria or student services, ask about that facility and I can check the available information.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-library",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Library",
+    "question": "Does the college have a library?",
+    "aliases": [
+      "library",
+      "books",
+      "reading room",
+      "digital library"
+    ],
+    "keywords": [
+      "library",
+      "books",
+      "reading"
+    ],
+    "content": "The college provides library-related academic support to students. Current timings and services should be checked with the college library.",
+    "answer": "ABC College provides library support for students. Library services can include access to academic books and study resources.\n\nFor current opening hours, borrowing rules or digital-resource access, check the latest library notice or contact the library.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-rules",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Rules and Regulations",
+    "question": "What are the college rules?",
+    "aliases": [
+      "rules",
+      "regulations",
+      "discipline",
+      "code of conduct",
+      "college policy"
+    ],
+    "keywords": [
+      "rules",
+      "regulations",
+      "discipline",
+      "conduct"
+    ],
+    "content": "Students are expected to follow the college's academic, campus and disciplinary rules.",
+    "answer": "Students are expected to follow the college's academic, campus and disciplinary rules.\n\nRules can cover attendance, examinations, campus conduct, use of facilities and student responsibilities. For a specific rule, ask about the topic and I can check the available information.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-contact",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Contact Information",
+    "question": "How can I contact the college?",
+    "aliases": [
+      "contact",
+      "phone number",
+      "email",
+      "office contact",
+      "college address",
+      "admission office"
+    ],
+    "keywords": [
+      "contact",
+      "phone",
+      "email",
+      "address"
+    ],
+    "content": "Students should use the official college contact directory for current office phone numbers, email addresses and addresses.",
+    "answer": "You can contact the relevant college office through the official contact directory.\n\nFor admissions, use the admission office contact. For examinations, use the examination office contact. For hostel or transport, use the respective student-services office.\n\nThe latest official directory should be checked for current phone numbers and email addresses.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-location",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "College Location",
+    "question": "Where is the college located?",
+    "aliases": [
+      "college location",
+      "address",
+      "where is abc college",
+      "campus address",
+      "where is the campus"
+    ],
+    "keywords": [
+      "location",
+      "address",
+      "campus"
+    ],
+    "content": "The current college address should be taken from the official college contact or location information.",
+    "answer": "The college's current address should be checked through the official contact or location information. I don't want to invent an address that may be incorrect.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-online",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Online Application",
+    "question": "Can I apply online?",
+    "aliases": [
+      "online application",
+      "apply online",
+      "online admission",
+      "application website"
+    ],
+    "keywords": [
+      "online",
+      "application",
+      "apply"
+    ],
+    "content": "Applicants may use the designated admission application channel when online applications are enabled for the relevant admission cycle.",
+    "answer": "Online application may be available for the relevant admission cycle. Use the admission application link provided in the current official admission notice.\n\nThe application channel and dates can change between admission cycles, so use the latest notice rather than an old link.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-documents",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Admission Documents",
+    "question": "Which documents are required for admission?",
+    "aliases": [
+      "documents for admission",
+      "papers required",
+      "admission documents",
+      "certificate required",
+      "documents needed"
+    ],
+    "keywords": [
+      "documents",
+      "certificates",
+      "admission"
+    ],
+    "content": "The exact document list is programme-specific and is provided in the current admission notice.",
+    "answer": "The exact admission document list depends on the programme. Commonly requested documents can include academic certificates or marksheets, identification, photographs and applicable supporting/category certificates.\n\nPlease use the current admission notice for the final document checklist.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  },
+  {
+    "id": "faq-refund",
+    "widget_id": "COLLEGE_ABC_001",
+    "title": "Fee Refunds",
+    "question": "What is the fee refund policy?",
+    "aliases": [
+      "refund",
+      "fee refund",
+      "admission cancellation",
+      "cancel admission",
+      "refund policy"
+    ],
+    "keywords": [
+      "refund",
+      "cancellation",
+      "fee"
+    ],
+    "content": "Fee refund and admission-cancellation rules depend on the applicable college policy and the relevant admission cycle.",
+    "answer": "Fee refunds depend on the college's applicable admission-cancellation and refund policy.\n\nBecause refund rules can vary by programme and admission cycle, check the current official refund notice before cancelling an admission or submitting a refund request.",
+    "type": "faq",
+    "source_url": null,
+    "page": null
+  }
+]
